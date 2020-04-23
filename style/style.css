@@ -1,0 +1,15 @@
+#resultlist {
+    position: absolute;
+    width: 81%;
+    max-width: 89%;
+    cursor: pointer;
+    overflow-y: auto;
+    max-height: 400px;
+    box-sizing: border-box;
+    z-index: 1001;
+}
+
+.link-class:hover {
+    background-color: #f1f1f1;
+    cursor: pointer;
+}
