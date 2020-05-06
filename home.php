@@ -13,7 +13,7 @@
 
 <body>
     <div class="container">
-        <h1 align="center">PHP AJAX SMK Taruna Bhakti</h1>
+        <h1 align="center" style="margin-top: 40px">PHP AJAX SMK Taruna Bhakti</h1>
         <h2 align="center" class="mb-4 mt-4">Autocomplete Dengan Gambar dan Ajax</h2>
         <div align="center">
             <input type="text" placeholder="Cari Nama Siswa..." class="form-control" id="nama_siswa">
